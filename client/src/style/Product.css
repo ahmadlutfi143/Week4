@@ -1,0 +1,12 @@
+.border-product {
+    padding-top: 5%;
+    padding-left: 17%;
+    padding-right: 17%;
+}
+/* Table .text-truncate{
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+} */

@@ -1,0 +1,22 @@
+.border-detail {
+    height: 90vh;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #0B0B0B;
+}
+.description {
+    text-align: justify;
+}
+.price {
+    text-align: right;
+}
+.fitur {
+    list-style-type: none;
+}
+.carousel-control-next {
+    margin-right: 10%;
+}
+.carousel-control-prev {
+    margin-left: 5%;
+}
